@@ -1,0 +1,7 @@
+[
+  {"code": "NDLS", "name": "New Delhi", "city": "Delhi"},
+  {"code": "CNB", "name": "Kanpur Central", "city": "Kanpur"},
+  {"code": "LKO", "name": "Lucknow NR", "city": "Lucknow"},
+  {"code": "BPL", "name": "Bhopal Junction", "city": "Bhopal"},
+  {"code": "CSTM", "name": "Chhatrapati Shivaji Maharaj Terminus", "city": "Mumbai"}
+]
