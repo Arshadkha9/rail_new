@@ -1,0 +1,15 @@
+[
+    {
+      "train_no": "12951",
+      "stations": ["NDLS", "CNB", "LKO", "BPL", "CSTM"]
+    },
+    {
+      "train_no": "12002",
+      "stations": ["NDLS", "CNB"]
+    },
+    {
+      "train_no": "19020",
+      "stations": ["LKO", "BPL"]
+    }
+  ]
+  
